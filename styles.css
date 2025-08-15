@@ -3,10 +3,19 @@ body{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#header{
+#header,
+#recipe-title{
     color: white;
+}
+
+#header{
     background-color: #89023E;
-    padding: 20px;
+    padding: 15px;
+}
+
+#recipe-title{
+    background-color: #F9564F;
+    padding: 5px 15px;
 }
 
 .content{
