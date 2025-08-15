@@ -1,7 +1,14 @@
 body{
+    margin: 0px;
     font-family:Verdana, Geneva, Tahoma, sans-serif
 }
 
 #header{
-    background-color: #45062E;
+    color: white;
+    background-color: #89023E;
+    padding: 20px;
+}
+
+.content{
+    margin: 10px;
 }
